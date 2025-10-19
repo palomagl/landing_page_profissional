@@ -3,7 +3,7 @@
 Este projeto apresenta uma **página web responsiva** desenvolvida com **HTML, CSS e JavaScript**, com foco em design limpo e interatividade para usuários de todos os dispositivos.
 
 🔗 **Visite o site**:  
-👉 [Meu Site](https://seu-site-aqui.vercel.app/)
+👉 [Meu Site](https://landing-page-profissional-git-main-palomagls-projects.vercel.app/)
 
 ## 📖 Sobre o projeto
 
