@@ -36,7 +36,7 @@ Este projeto apresenta uma **página web responsiva** desenvolvida com **HTML, C
 
 ## 📸 Captura de Tela
 
-![Screenshot do Site](assets/imagens/screenshot.png)  
+![Screenshot do Site](interfase.png)  
 
 ## 📲 Contato
 
